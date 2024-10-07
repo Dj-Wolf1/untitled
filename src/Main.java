@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Dominik Kasun");
         System.out.println("treci sat predavanja");
         System.out.println("cetvrti sat predavanja");
+        System.out.println("peti sat predavanja");
+
 
 
     }
